@@ -1,4 +1,4 @@
-# 🏥 Healthcare Patient Management System (C++)
+# 🏥 Healthcare Patient Management System (MONGO-DB)
 
 A robust command-line C++ application designed for managing patient records within a hospital system, leveraging MongoDB for efficient data storage, retrieval, and analysis. This system supports comprehensive CRUD operations, stringent data validation, and advanced MongoDB features like indexing and aggregation.
 
